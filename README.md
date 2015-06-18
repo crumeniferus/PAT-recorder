@@ -16,6 +16,7 @@ Once the tbl or latex file is ready, it can be processed with groff or another t
 
 In the diagram below, the extension 'tbl' could instead be 'lat'.
 
+```
                     +----------------+
                     | PAT results.sc |
                     +----------------+
@@ -43,3 +44,4 @@ In the diagram below, the extension 'tbl' could instead be 'lat'.
                     +---------------+
                     | PAT whole.pdf |
                     +---------------+
+```
