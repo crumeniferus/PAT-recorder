@@ -1,0 +1,7 @@
+.\" ** sc spreadsheet output 
+.TS
+tab(:);
+ n.
+PORTABLE APPLIANCE TESTING REPORT
+.TE
+.\" ** end of sc spreadsheet output

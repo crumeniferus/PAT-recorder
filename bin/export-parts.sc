@@ -1,3 +1,3 @@
-echo tbl "PAT-title.tbl" title
-#echo tbl "PAT-header.tbl" header
-#echo tbl "PAT-data.tbl" main_data
+tbl "PAT-part-title.tbl" title
+tbl "PAT-part-header.tbl" header
+tbl "PAT-part-main_data.tbl" main_data
