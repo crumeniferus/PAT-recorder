@@ -1,0 +1,90 @@
+.\" ** sc spreadsheet output 
+.TS
+tab(:);
+ l l.
+REPORT NO.:MILLBROOK201506
+DATE:2015-06-15
+TOTAL APPLIANCES:62
+TEST DEVICE DESCRIPTION:Seaward PAC1500XI
+TEST DEVICE SERIAL NO.:U25-0572
+TEST ENGINEER NAME:Ian Cheesbrough
+TEST ENGINEER SIGNATURE:
+Items in order of testing.:
+.TE
+.\" ** end of sc spreadsheet output
+.\" ** sc spreadsheet output 
+.TS
+tab(:);
+ l l l l l l l l l l l.
+APPLIANCE ID:APPLIANCE DESCRIPTION:APPLIANCE LOCATION:CLASS:VISUAL:EARTH Ohms:INSULATION MOhms:FUNCTIONAL:NEXT TEST:PASS/FAIL:COMMENTS
+LGT01:Light, table:Room 1 - Old Harry:II:OK::>20:Yes:+2yrs:PASS:
+LGT02:Light, table:Room 1 - Old Harry:II:OK::>20:Yes:+2yrs:PASS:
+TV_01:Television:Room 1 - Old Harry:II:OK::>20:Yes:+2yrs:PASS:Electronic start
+KET01:Kettle:Room 1 - Old Harry:I:OK:0.044:>20:Yes:+2yrs:PASS:Fixing bolt of element accessible behind small cover in base. All-plastic construction with no visible or touchable metal parts besides element.
+DRY01:Dryer, hair:Room 1 - Old Harry:II:OK::>20:Yes:+2yrs:PASS:No rating plate or info in instructions. All-plastic construction indicates Class II.
+CLK01:Clock, alarm:Room 1 - Old Harry:II:OK::>20:Yes:+2yrs:PASS:
+LGT03:Light, table:Room 3 - Durlston Room:II:OK::>20:Yes:+2yrs:PASS:
+LGT04:Light, table:Room 3 - Durlston Room:II:OK::>20:Yes:+2yrs:PASS:
+TV_02:Television:Room 3 - Durlston Room:II:OK::>20:Yes:+2yrs:PASS:Electronic start
+KET02:Kettle:Room 3 - Durlston Room:I:OK:0.078:>20:Yes:+2yrs:PASS:Fixing bolt of element accessible behind small cover in base. All-plastic construction with no visible or touchable metal parts besides element.
+DRY02:Dryer, hair:Room 3 - Durlston Room:II:OK::>20:Yes:+2yrs:PASS:No rating plate or info in instructions. All-plastic construction indicates Class II.
+CLK02:Clock, alarm:Room 3 - Durlston Room:II:OK::>20:Yes:+2yrs:PASS:
+EXT01:Extension, fixed socket:Room 3 - Durlston Room:I:OK:0.067:>20:Yes:+2yrs:PASS:
+EXT02:Extension, fixed socket:Room 3 - Durlston Room:I:OK:0.049:>20:Yes:+2yrs:PASS:
+LGT05:Light, table:Room 8 - Tyneham:II:OK::>20:Yes:+2yrs:PASS:
+LGT06:Light, table:Room 8 - Tyneham:II:OK::>20:Yes:+2yrs:PASS:
+LGT07:Light, table:Room 8 - Tyneham:II:OK::>20:Yes:+2yrs:PASS:
+TV_03:Television:Room 8 - Tyneham:II:OK::>20:Yes:+2yrs:PASS:Electronic start
+KET03:Kettle:Room 8 - Tyneham:I:OK:0.047:>20:Yes:+2yrs:PASS:Fixing bolt of element accessible behind small cover in base. All-plastic construction with no visible or touchable metal parts besides element.
+DRY03:Dryer, hair:Room 8 - Tyneham:II:OK::>20:Yes:+2yrs:PASS:No rating plate or info in instructions. All-plastic construction indicates Class II.
+CLK03:Clock, alarm:Room 8 - Tyneham:II:OK::>20:Yes:+2yrs:PASS:
+LGT08:Light, table:Room 2 - Brownsea Island:II:OK::>20:Yes:+2yrs:PASS:
+LGT09:Light, table:Room 2 - Brownsea Island:II:OK::>20:Yes:+2yrs:PASS:
+TV_04:Television:Room 2 - Brownsea Island:I:OK:0.065:>20:Yes:+2yrs:PASS:Electronic start
+KET04:Kettle:Room 2 - Brownsea Island:I:OK:0.071:>20:Yes:+2yrs:PASS:Fixing bolt of element accessible behind small cover in base. All-plastic construction with no visible or touchable metal parts besides element.
+DRY04:Dryer, hair:Room 2 - Brownsea Island:II:OK::>20:Yes:+2yrs:PASS:No rating plate or info in instructions. All-plastic construction indicates Class II.
+CLK04:Clock, alarm:Room 2 - Brownsea Island:II:OK::>20:Yes:+2yrs:PASS:
+EXT03:Extension, IEC:Room 2 - Brownsea Island:I:OK:0.049:>20:Yes:+2yrs:PASS:
+LGT10:Light, table:Room 4 - Purbeck Suite:II:OK::>20:Yes:+2yrs:PASS:
+LGT11:Light, table:Room 4 - Purbeck Suite:II:OK::>20:Yes:+2yrs:PASS:
+TV_05:Television:Room 4 - Purbeck Suite:I:OK:0.110:>20:Yes:+2yrs:PASS:Electronic start. Worst earth rating on RCA connectors at left side.
+KET05:Kettle:Room 4 - Purbeck Suite:I:OK:0.062:>20:Yes:+2yrs:PASS:Fixing bolt of element accessible behind small cover in base. All-plastic construction with no visible or touchable metal parts besides element.
+DRY05:Dryer, hair:Room 4 - Purbeck Suite:II:OK::>20:Yes:+2yrs:PASS:No rating plate or info in instructions. All-plastic construction indicates Class II.
+LGT12:Light, table:Room 5 - Kimmeridge:II:OK::>20:Yes:+2yrs:PASS:
+LGT13:Light, table:Room 5 - Kimmeridge:II:OK::>20:Yes:+2yrs:PASS:
+TV_06:Television:Room 5 - Kimmeridge:I:OK:0.029:>20:Yes:+2yrs:PASS:Electronic start. Worst earth rating on RCA connectors at left side.
+EXT03:Extension, IEC:Room 5 - Kimmeridge:I:OK:0.052:>20:Yes:+2yrs:PASS:
+KET06:Kettle:Room 5 - Kimmeridge:I:OK:0.071:>20:Yes:+2yrs:PASS:Fixing bolt of element accessible behind small cover in base. All-plastic construction with no visible or touchable metal parts besides element.
+DRY06:Dryer, hair:Room 5 - Kimmeridge:II:OK::>20:Yes:+2yrs:PASS:No rating plate or info in instructions. All-plastic construction indicates Class II.
+CLK06:Clock, alarm:Room 5 - Kimmeridge:II:OK::>20:Yes:+2yrs:PASS:
+LGT14:Light, table:Room 6 - Lulworth Cove:II:OK::>20:Yes:+2yrs:PASS:
+LGT15:Light, table:Room 6 - Lulworth Cove:II:OK::>20:Yes:+2yrs:PASS:
+TV_07:Television:Room 6 - Lulworth Cove:II:OK::>20:Yes:+2yrs:PASS:Electronic start
+KET07:Kettle:Room 6 - Lulworth Cove:I:OK:0.059:>20:Yes:+2yrs:PASS:Fixing bolt of element accessible behind small cover in base. All-plastic construction with no visible or touchable metal parts besides element.
+DRY07:Dryer, hair:Room 6 - Lulworth Cove:II:OK::>20:Yes:+2yrs:PASS:No rating plate or info in instructions. All-plastic construction indicates Class II.
+CLK07:Clock, alarm:Room 6 - Lulworth Cove:II:OK::>20:Yes:+2yrs:PASS:
+LGT16:Light, table:Room 7 - Old Harry:II:OK::>20:Yes:+2yrs:PASS:
+LGT17:Light, table:Room 7 - Old Harry:II:OK::>20:Yes:+2yrs:PASS:
+TV_08:Television:Room 7 - Old Harry:II:OK::>20:Yes:+2yrs:PASS:Electronic start
+KET08:Kettle:Room 7 - Old Harry:I:OK:0.067:>20:Yes:+2yrs:PASS:Fixing bolt of element accessible behind small cover in base. All-plastic construction with no visible or touchable metal parts besides element.
+DRY08:Dryer, hair:Room 7 - Old Harry:II:OK::>20:Yes:+2yrs:PASS:No rating plate or info in instructions. All-plastic construction indicates Class II.
+CLK08:Clock, alarm:Room 7 - Old Harry:II:OK::>20:Yes:+2yrs:PASS:
+VAC01:Cleaner, vacuum, DC33:Cleaning cupboard:II:OK::>20:Yes:+2yrs:PASS:
+LGT18:Light, table:Landing:II:OK::>20:Yes:+2yrs:PASS:
+LGT19:Light, table:Hall:II:OK::>20:Yes:+2yrs:PASS:
+IRN01:Press, steam:Hall:I:OK:0.106:>20:Yes:+2yrs:PASS:Earth taken from metal shell. Heating plate is isolated.
+VAC02:Cleaner, vacuum, DC14:Downstairs:II:OK::>20:Yes:+2yrs:PASS:
+FAN01:Fan, floor, upright:Downstairs:II:OK::>20:Yes:+2yrs:PASS:
+FAN02:Fan, floor, upright:Downstairs:II:OK::>20:Yes:+2yrs:PASS:
+FAN03:Fan, floor:Downstairs:I:OK:0.169:>20:Yes:+2yrs:PASS:
+KET09:Kettle:Kitchen:I:OK:0.056:>20:Yes:+2yrs:PASS:Cordless. Earth check is for base unit. Otherwise all-plastic construction with no visible or touchable metal parts besides element and top trim. Electronic start switch.
+TOA01:Toaster:Kitchen:I:OK:0.056:>20:Yes:+2yrs:PASS:
+.TE
+.\" ** end of sc spreadsheet output
+.\" ** sc spreadsheet output 
+.TS
+tab(:);
+ l.
+PORTABLE APPLIANCE TESTING REPORT
+.TE
+.\" ** end of sc spreadsheet output
